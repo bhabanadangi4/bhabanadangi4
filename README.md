@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @bhabanadangi4
+- 👀 I’m interested in **web development, data science, and anything that solves real-world problems through code.**
+- 🌱 I’m currently learning **Python and JavaScript, with a focus on building interactive applications.**
+- 💞️ I’m looking to collaborate on **open-source projects, especially those related to front-end development or data visualization.**
+- 📫 How to reach me: **You can connect with me on [LinkedIn](YourLinkedInProfileLinkHere) or email me at [your.email@example.com](mailto:bhabanadangi42@gmail.com).**
+- 😄 Pronouns: **She/Her**
+- ⚡ Fun fact: **I can solves. 
